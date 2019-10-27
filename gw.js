@@ -1,5 +1,3 @@
-
-
 var proxy = 'SOCKS5 192.168.153.129:3921';
 var rules = [
     [
@@ -9,7 +7,6 @@ var rules = [
     [
         [
             "app.link",
-            "weiyun.com",
             "bintray.com",
             "bscstorage.net",
             "aftygh.gov.tw",
